@@ -1,0 +1,58 @@
+ *, *::before, *::after {
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: #324e6d;
+  margin: 0;
+}
+
+.container{
+  width: 80%;
+  max-width: 750px;
+  margin: 10em auto;
+}
+
+.main__context{
+  text-align: center;
+}
+
+img{
+  width: 20%;
+  border: 15px solid white;
+  border-radius: 50%;
+  margin: 0 18em;
+}
+
+#name{
+  margin: 3em 0 0;
+  color: #fff;
+  text-align: center;
+}
+
+#profession{
+  font-weight: 600;
+  margin: 0 10em ;
+  color: #fff;
+}
+
+#profess__details{
+  margin: 2em 8em;
+  text-align: center;
+  color: #b0c0c5;
+}
+
+.next{
+ margin: 2em 18em;
+ background-color: #324e6d;
+ border: 2px solid green;
+ color: #b0c0c5;
+ padding: 10px 20px;
+ text-decoration: none;
+}
+
+
+
+
+
